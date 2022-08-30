@@ -1,2 +1,2 @@
-# facial_recognition
+# Facial Recognition
 This project is about facial recognition. The aim is to design a deep neural network in Keras using convolutional neural networks that perform facial recognition. The dataset encompasses 400 images of size 112 by 92 which below to 40 individuals.  The data is preprocessed, a network architecture is created, and the model is compiled. The aim is for the model to reach 90% accuracy.
